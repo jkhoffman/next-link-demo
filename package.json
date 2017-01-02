@@ -1,5 +1,9 @@
 {
   "scripts": {
     "dev": "next"
+  },
+  "dependencies": {
+    "next": "*",
+    "react-bootstrap": "*"
   }
 }
